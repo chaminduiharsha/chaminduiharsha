@@ -4,7 +4,16 @@
 <h1 align="center">Hi 👋, I'm Iharsha Gamage</h1>
 <h3 align="center">I am currently a student in the Faculty of Information Technology (FIT) at the University of Moratuwa.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chaminduiharsha&label=Profile%20views&color=0e75b6&style=flat" alt="chaminduiharsha" /> </p>
+<p align="center">
+
+
+ 
+ <img src="https://komarev.com/ghpvc/?username=chaminduiharsha&label=Profile%20views&color=0e75b6&style=flat" alt="chaminduiharsha" />
+   <a href="https://github.com/chaminduiharsha?tab=followers">
+    <img src="https://img.shields.io/github/followers/archanadev-05?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
+  </a>
+ 
+ </p>
 
 - 🔭 I’m currently working on [c-dsa-library](https://github.com/chaminduiharsha/c-dsa-library)
 
