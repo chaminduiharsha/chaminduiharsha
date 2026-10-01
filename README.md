@@ -10,7 +10,7 @@
  
  <img src="https://komarev.com/ghpvc/?username=chaminduiharsha&label=Profile%20views&color=0e75b6&style=flat" alt="chaminduiharsha" />
    <a href="https://github.com/chaminduiharsha?tab=followers">
-    <img src="https://img.shields.io/github/followers/archanadev-05?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/chaminduiharsha?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
   </a>
  
  </p>
